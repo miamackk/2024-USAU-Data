@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>USAU Data</title>
+	<link rel="stylesheet" type="text/css" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/visualization.css">
+</head>
+<body>
+	<div class="container">
+			
+		<h1>USAU Spring 2024 Season Data</h1>
+		<div class="intro">Power Ratings for Division 1 College frisbee teams in 2024</div>
+		
+		<div id="scatterplot"></div>
+
+		<div id="legend-container"></div>
+
+		<div class="source">
+			<h3>Data source</h3>
+			<p><a href="https://play.usaultimate.org/teams/events/rankings/">2024 USAU Archived Rankings Data</a></p>
+</div>
+	</div>
+
+	<!-- Load your scripts here -->
+	<script src="https://d3js.org/d3.v7.min.js"></script>
+	<script src="js/shared-constants.js"></script>
+	<script src="js/legend.js"></script>
+	<script src="js/scatterplot.js"></script>
+	<script src="js/load-data.js"></script>
+</body>
+</html>
