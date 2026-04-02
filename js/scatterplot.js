@@ -102,5 +102,5 @@ const drawScatterplot = (data) => {
             .attr("stroke", ([team, values]) => colorScale(team));
    
     addLegend(colorScale, top_team_names);
-    console.log("legend called")
+    console.log("legend called");
 };
