@@ -14,3 +14,40 @@
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
+
+/* basically copied this all from lab 8 */
+
+#reset-btn {
+  border: 1px solid #2d2d2d;
+  border-radius: 2px;
+  padding: 10px 15px;
+  min-width: 20px;
+  margin: 0 5px;
+  padding: 8px 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+  font-weight: 250;
+  background-color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  transition: background-color 0.3ms ease-in;
+}
+#reset-btn:hover,
+#reset-btn.active {
+  background-color: rgb(255, 67, 67);
+  transition-timing-function: ease-out;
+}
+#reset-btn.active {
+  cursor: default;
+}
+/*for the tooltip thing on the bump chart*/
+.rank-label {
+    font-size: 12px;
+    font-weight: bold;
+    pointer-events: none;
+    paint-order: stroke;
+    stroke: white;
+    stroke-width: 3px;
+    stroke-linejoin: round;
+}

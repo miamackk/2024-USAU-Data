@@ -1,23 +1,50 @@
-//gets called at the end of scatterplot function since 
-//we use colorScale and teamNames as a parameter
-const addLegend = (colorScale, teamNames) => {
-    const ul = d3.select("#legend-container")
-        .append("ul")
-        .attr("class", "color-legend");
+const addLegend = (colorScale, teams) => {
+  const container = d3.select("#legend-container");
+  container.html("");
 
-    const items = ul.selectAll("li")
-        .data([...teamNames])
-        .join("li")
-        .attr("class", "color-legend-item");
+  let activeTeams = new Set(teams); // start with all visible
 
-    items.append("span")
-        .attr("class", "color-legend-item-color")
-        .style("background-color", d => colorScale(d))
-        .style("display", "inline-block")
-        .style("width", "12px")
-        .style("height", "12px");
+  const items = container.selectAll(".legend-item")
+    .data(teams)
+    .join("div")
+    .attr("class", "legend-item")
+    // .style("cursor", "pointer");
 
-    items.append("span")
-        .attr("class", "color-legend-item-label")
-        .text(d => d);
+  // color box
+  items.append("span")
+    .attr("class", "legend-color")
+    .style("background-color", d => colorScale(d));
+
+  // label
+  items.append("span")
+    .text(d => d);
+};
+
+//legend for bar chart
+const legend_games = (team_data) => {
+  const container = d3.select("#games-legend")
+  container.html("");
+  const items = [ {color: "#5dc34f", label: "Win"},
+                  {color: "#d26565", label: "Loss"}]
+
+  items.forEach(item => {
+    const row = container.append("div")
+      .attr("class", "legend-item")
+
+    row.append("span")
+      .attr("class", "legend-color")
+      .style("background-color", item.color)
+
+    row.append("span")
+      .text(item.label)
+
+  })
+
+  container.append("p")
+    .text("bar size = (points scored - points lost)")
+    .style("color", "#404040")
+    .style("font-size", "20px")
+    .style("margin-left", "10%")  // pushes to the right
+    .style("margin-top", "0")
+    .style("margin-bottom", "0")
 };

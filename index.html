@@ -10,15 +10,33 @@
 <body>
 	<div class="container">
 			
-		<h1>USAU Spring 2024 Season Data</h1>
-		<div class="intro">Power Ratings for Division 1 College frisbee teams in 2024</div>
+		<h1>USAU College Women's D1 2024 Season</h1>
+		<div class="intro"> <a href="https://play.usaultimate.org/teams/events/rankings/">USA Ultimate</a> keeps detailed records of each team's season performance, including not just data about every game played, but also archived data for team rankings at different points throughout the season. This is a review of the spring 2024 Ultimate Frisbee season for the Division 1 College Women's league.</div>
 		
-		<div id="scatterplot"></div>
+		<div class="chart-row">
+			<div id="scatterplot"></div>
+			<div class="side-panel">
+				<div id="buffer"></div>
+				<div id="legend-container"></div>
+				<div id="buffer2"></div>
+				<button id="reset-btn">See All Lines</button>
+			</div>
+</div>
 
-		<div id="legend-container"></div>
+		<h2></h2>
+		<div class="bar-row">
+			<div id="bar-chart"></div>
+			<div id="games-legend"></div>
+		</div>
+		<div class="bar-row">
+			<div id="tournament-legend"></div>
+			<div id="game-legend"></div>
+		</div>
+
+
 
 		<div class="source">
-			<h3>Data source</h3>
+			<h4>Data source</h4>
 			<p><a href="https://play.usaultimate.org/teams/events/rankings/">2024 USAU Archived Rankings Data</a></p>
 </div>
 	</div>
@@ -26,8 +44,10 @@
 	<!-- Load your scripts here -->
 	<script src="https://d3js.org/d3.v7.min.js"></script>
 	<script src="js/shared-constants.js"></script>
+	<script src="js/interactions.js"></script>
 	<script src="js/legend.js"></script>
-	<script src="js/scatterplot.js"></script>
+	<script src="js/bump-chart.js"></script>
+	<script src="js/barchart.js"></script>
 	<script src="js/load-data.js"></script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 Rank,Team,PowerRating,Division,Wins,Losses,Date
-1,Carleton College,2342,Division I,11,2,2024-03-12
+1,Carleton,2342,Division I,11,2,2024-03-12
 2,British Columbia,2342,Division I,11,1,2024-03-12
 3,Vermont,2313,Division I,12,1,2024-03-12
 4,North Carolina,2276,Division I,14,0,2024-03-12
@@ -31,7 +31,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 30,Portland,1465,Division III,13,4,2024-03-12
 31,Washington University,1448,Division I,10,3,2024-03-12
 32,UCLA,1434,Division I,7,12,2024-03-12
-33,Carleton College,1434,Division III,8,2,2024-03-12
+33,Carleton,1434,Division III,8,2,2024-03-12
 34,Ohio,1409,Division I,10,3,2024-03-12
 35,Ithaca,1405,Division III,5,0,2024-03-12
 36,Colorado College,1397,Division III,10,3,2024-03-12
@@ -197,7 +197,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 196,American B,-766,Developmental,0,5,2024-03-12
 1,British Columbia,2482,Division I,16,1,2024-03-20
 2,Vermont,2350,Division I,12,1,2024-03-20
-3,Carleton College,2303,Division I,15,4,2024-03-20
+3,Carleton,2303,Division I,15,4,2024-03-20
 4,North Carolina,2258,Division I,17,1,2024-03-20
 5,Oregon,2191,Division I,18,2,2024-03-20
 6,Stanford,2148,Division I,14,6,2024-03-20
@@ -242,7 +242,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 45,Cornell,1289,Division I,6,0,2024-03-20
 46,Yale,1286,Division I,3,4,2024-03-20
 47,Texas,1285,Division I,8,11,2024-03-20
-48,Carleton College,1275,Division III,15,2,2024-03-20
+48,Carleton,1275,Division III,15,2,2024-03-20
 49,Portland,1272,Division III,11,3,2024-03-20
 50,Whitman,1270,Division III,6,6,2024-03-20
 51,Purdue,1260,Division I,3,3,2024-03-20
@@ -398,7 +398,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 201,Notre Dame B,-1022,Developmental,1,5,2024-03-20
 1,British Columbia,2568,Division I,16,1,2024-03-27
 2,Vermont,2436,Division I,12,1,2024-03-27
-3,Carleton College,2389,Division I,15,4,2024-03-27
+3,Carleton,2389,Division I,15,4,2024-03-27
 4,North Carolina,2345,Division I,17,1,2024-03-27
 5,Oregon,2277,Division I,18,2,2024-03-27
 6,Stanford,2234,Division I,14,6,2024-03-27
@@ -444,7 +444,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 46,Whitman,1343,Division III,6,6,2024-03-27
 47,Portland,1342,Division III,11,3,2024-03-27
 48,American,1336,Division I,9,1,2024-03-27
-49,Carleton College,1335,Division III,15,2,2024-03-27
+49,Carleton,1335,Division III,15,2,2024-03-27
 50,Georgia Tech,1326,Division I,10,3,2024-03-27
 51,SUNY-Binghamton,1324,Division I,2,5,2024-03-27
 52,Davidson,1304,Division III,4,1,2024-03-27
@@ -609,7 +609,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 211,Notre Dame B,-1019,Developmental,1,5,2024-03-27
 1,British Columbia,2541,Division I,16,1,2024-04-04
 2,Vermont,2435,Division I,19,1,2024-04-04
-3,Carleton College,2355,Division I,15,4,2024-04-04
+3,Carleton,2355,Division I,15,4,2024-04-04
 4,North Carolina,2269,Division I,22,3,2024-04-04
 5,Oregon,2254,Division I,18,2,2024-04-04
 6,Stanford,2207,Division I,14,6,2024-04-04
@@ -653,7 +653,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 44,Portland,1341,Division III,11,3,2024-04-04
 45,Texas,1325,Division I,8,11,2024-04-04
 46,Connecticut,1303,Division I,10,3,2024-04-04
-47,Carleton College,1299,Division III,15,2,2024-04-04
+47,Carleton,1299,Division III,15,2,2024-04-04
 48,Georgia Tech,1272,Division I,10,3,2024-04-04
 49,Macalester,1253,Division III,9,3,2024-04-04
 50,Yale,1243,Division I,6,7,2024-04-04
@@ -765,7 +765,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 156,Cornell B,-841,Developmental,0,9,2024-04-04
 1,British Columbia,2461,Division I,24,2,2024-05-08
 2,Vermont,2375,Division I,26,1,2024-05-08
-3,Carleton College,2319,Division I,22,4,2024-05-08
+3,Carleton,2319,Division I,22,4,2024-05-08
 4,Oregon,2252,Division I,27,4,2024-05-08
 5,Stanford,2221,Division I,21,6,2024-05-08
 6,North Carolina,2196,Division I,34,3,2024-05-08
@@ -798,7 +798,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 33,Union (Tennessee),1495,Division III,20,2,2024-05-08
 34,Washington University,1487,Division I,20,9,2024-05-08
 35,St Olaf,1471,Division III,20,4,2024-05-08
-36,Carleton College,1460,Division III,19,3,2024-05-08
+36,Carleton,1460,Division III,19,3,2024-05-08
 37,William & Mary,1460,Division I,13,8,2024-05-08
 38,SUNY-Binghamton,1425,Division I,16,8,2024-05-08
 39,American,1421,Division I,18,2,2024-05-08
@@ -974,7 +974,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 1,Vermont,2355,Division I,31,2,2024-06-20
 2,British Columbia,2249,Division I,28,4,2024-06-20
 3,North Carolina,2231,Division I,41,3,2024-06-20
-4,Carleton College,2192,Division I,26,6,2024-06-20
+4,Carleton,2192,Division I,26,6,2024-06-20
 5,Stanford,2159,Division I,27,7,2024-06-20
 6,Colorado,2106,Division I,25,8,2024-06-20
 7,Tufts,2052,Division I,29,6,2024-06-20
@@ -998,7 +998,7 @@ Rank,Team,PowerRating,Division,Wins,Losses,Date
 25,Portland,1513,Division III,21,4,2024-06-20
 26,Wisconsin,1509,Division I,13,13,2024-06-20
 27,SUNY-Binghamton,1496,Division I,18,11,2024-06-20
-28,Carleton College,1490,Division III,24,4,2024-06-20
+28,Carleton,1490,Division III,24,4,2024-06-20
 29,Brown,1476,Division I,20,9,2024-06-20
 30,UCLA,1453,Division I,19,19,2024-06-20
 31,Utah,1450,Division I,15,21,2024-06-20

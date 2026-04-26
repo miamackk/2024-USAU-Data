@@ -1,0 +1,397 @@
+Index,Tournament,Team,Opponent,pointsscored,pointslost,diff,date
+1,Queen City Tune Up 2024,Vermont,South Carolina,15,3,12,2024-02-11
+2,Queen City Tune Up 2024,Vermont,William & Mary,15,1,14,2024-02-11
+3,Queen City Tune Up 2024,Vermont,Virginia,15,2,13,2024-02-11
+4,Queen City Tune Up 2024,Vermont,Wisconsin,15,5,10,2024-02-11
+5,Queen City Tune Up 2024,Vermont,Georgia,11,5,6,2024-02-11
+6,Queen City Tune Up 2024,Vermont,Carleton College,11,15,-4,2024-02-11
+7,Queen City Tune Up 2024,Vermont,Tufts,15,11,4,2024-02-11
+8,Stanford Invite 2024,Vermont,California-Davis,12,3,9,2024-03-03
+9,Stanford Invite 2024,Vermont,California-Santa Barbara,11,8,3,2024-03-03
+10,Stanford Invite 2024,Vermont,Pittsburgh,10,2,8,2024-03-03
+11,Stanford Invite 2024,Vermont,California-San Diego,10,7,3,2024-03-03
+12,Stanford Invite 2024,Vermont,Stanford,10,7,3,2024-03-03
+13,Stanford Invite 2024,Vermont,British Columbia,13,12,1,2024-03-03
+14,East Coast Invite 2024,Vermont,Cornell,15,3,12,2024-03-31
+15,East Coast Invite 2024,Vermont,Ohio,15,4,11,2024-03-31
+16,East Coast Invite 2024,Vermont,Pennsylvania,15,9,6,2024-03-31
+17,East Coast Invite 2024,Vermont,North Carolina,15,11,4,2024-03-31
+18,East Coast Invite 2024,Vermont,Wisconsin,15,5,10,2024-03-31
+19,East Coast Invite 2024,Vermont,Northeastern,15,3,12,2024-03-31
+20,East Coast Invite 2024,Vermont,North Carolina,12,10,2,2024-03-31
+21,Greater New England D-I College Women's Conferences,Vermont,Maine,13,0,13,2024-04-14
+22,Greater New England D-I College Women's Conferences,Vermont,Rhode Island,13,1,12,2024-04-14
+23,Greater New England D-I College Women's Conferences,Vermont,Brown,12,6,6,2024-04-14
+24,New England D-I College Women's Regionals,Vermont,Massachusetts,15,3,12,2024-05-05
+25,New England D-I College Women's Regionals,Vermont,Rhode Island,15,3,12,2024-05-05
+26,New England D-I College Women's Regionals,Vermont,Brown,15,5,10,2024-05-05
+27,New England D-I College Women's Regionals,Vermont,Tufts,15,11,4,2024-05-05
+28,2024 USA Ultimate D-I College Championships,Vermont,Georgia,15,6,9,2024-05-27
+29,2024 USA Ultimate D-I College Championships,Vermont,Colorado,15,8,7,2024-05-27
+30,2024 USA Ultimate D-I College Championships,Vermont,Western Washington,15,4,11,2024-05-27
+31,2024 USA Ultimate D-I College Championships,Vermont,Michigan,15,8,7,2024-05-27
+32,2024 USA Ultimate D-I College Championships,Vermont,British Columbia,12,10,2,2024-05-27
+33,2024 USA Ultimate D-I College Championships,Vermont,Stanford,13,14,-1,2024-05-27
+1,Santa Barbara Invite 2024,Carleton,California-Davis,15,6,9,2024-01-28
+2,Santa Barbara Invite 2024,Carleton,Cal Poly-SLO,15,4,11,2024-01-28
+3,Santa Barbara Invite 2024,Carleton,Washington,14,9,5,2024-01-28
+4,Santa Barbara Invite 2024,Carleton,California-Santa Cruz,15,10,5,2024-01-28
+5,Santa Barbara Invite 2024,Carleton,British Columbia,12,13,-1,2024-01-28
+6,Santa Barbara Invite 2024,Carleton,Stanford,12,8,4,2024-01-28
+7,Queen City Tune Up 2024,Carleton,Notre Dame,15,6,9,2024-02-11
+8,Queen City Tune Up 2024,Carleton,Appalachian State,15,1,14,2024-02-11
+9,Queen City Tune Up 2024,Carleton,Pittsburgh,13,5,8,2024-02-11
+10,Queen City Tune Up 2024,Carleton,Washington University,15,0,15,2024-02-11
+11,Queen City Tune Up 2024,Carleton,Michigan,11,5,6,2024-02-11
+12,Queen City Tune Up 2024,Carleton,Vermont,15,11,4,2024-02-11
+13,Queen City Tune Up 2024,Carleton,North Carolina,11,15,-4,2024-02-11
+14,NW Challenge 2024,Carleton,Whitman,13,2,11,2024-03-17
+15,NW Challenge 2024,Carleton,Colorado,12,13,-1,2024-03-17
+16,NW Challenge 2024,Carleton,California,13,7,6,2024-03-17
+17,NW Challenge 2024,Carleton,Oregon,13,6,7,2024-03-17
+18,NW Challenge 2024,Carleton,North Carolina,13,12,1,2024-03-17
+19,NW Challenge 2024,Carleton,British Columbia,8,13,-5,2024-03-17
+20,Western North Central D-I College Women's Conferences,Carleton,Minnesota [B],13,0,13,2024-04-14
+21,Western North Central D-I College Women's Conferences,Carleton,Iowa,13,0,13,2024-04-14
+22,Western North Central D-I College Women's Conferences,Carleton,Minnesota,13,2,11,2024-04-14
+23,North Central D-I College Women's Regionals,Carleton,Iowa,15,1,14,2024-04-28
+24,North Central D-I College Women's Regionals,Carleton,Iowa State,15,2,13,2024-04-28
+25,North Central D-I College Women's Regionals,Carleton,Minnesota,15,6,9,2024-04-28
+26,North Central D-I College Women's Regionals,Carleton,Wisconsin,15,4,11,2024-04-28
+27,2024 USA Ultimate D-I College Championships,Carleton,Stanford,13,14,-1,2024-05-27
+28,2024 USA Ultimate D-I College Championships,Carleton,Utah,15,6,9,2024-05-27
+29,2024 USA Ultimate D-I College Championships,Carleton,Pennsylvania,15,7,8,2024-05-27
+30,2024 USA Ultimate D-I College Championships,Carleton,Washington,15,11,4,2024-05-27
+31,2024 USA Ultimate D-I College Championships,Carleton,Michigan,11,8,3,2024-05-27
+32,2024 USA Ultimate D-I College Championships,Carleton,North Carolina,10,11,-1,2024-05-27
+1,Santa Barbara Invite 2024,British Columbia,California,15,1,14,2024-01-28
+2,Santa Barbara Invite 2024,British Columbia,Utah,15,4,11,2024-01-28
+3,Santa Barbara Invite 2024,British Columbia,California-San Diego,15,4,11,2024-01-28
+4,Santa Barbara Invite 2024,British Columbia,Victoria,15,3,12,2024-01-28
+5,Santa Barbara Invite 2024,British Columbia,Carleton College,13,12,1,2024-01-28
+6,Santa Barbara Invite 2024,British Columbia,Oregon,15,12,3,2024-01-28
+7,Stanford Invite 2024,British Columbia,Texas,13,4,9,2024-03-03
+8,Stanford Invite 2024,British Columbia,UCLA,13,1,12,2024-03-03
+9,Stanford Invite 2024,British Columbia,California-San Diego,11,6,5,2024-03-03
+10,Stanford Invite 2024,British Columbia,California-Santa Barbara,12,8,4,2024-03-03
+11,Stanford Invite 2024,British Columbia,Colorado,11,8,3,2024-03-03
+12,Stanford Invite 2024,British Columbia,Vermont,12,13,-1,2024-03-03
+13,NW Challenge 2024,British Columbia,Northeastern,13,4,9,2024-03-17
+14,NW Challenge 2024,British Columbia,Western Washington,13,0,13,2024-03-17
+15,NW Challenge 2024,British Columbia,Washington,13,7,6,2024-03-17
+16,NW Challenge 2024,British Columbia,Colorado,13,6,7,2024-03-17
+17,NW Challenge 2024,British Columbia,Carleton College,13,8,5,2024-03-17
+18,Cascadia D-I College Women's Conferences,British Columbia,Victoria,15,5,10,2024-04-14
+19,Cascadia D-I College Women's Conferences,British Columbia,Western Washington,15,5,10,2024-04-14
+20,Cascadia D-I College Women's Conferences,British Columbia,Washington,15,5,10,2024-04-14
+21,Cascadia D-I College Women's Conferences,British Columbia,Oregon,15,11,4,2024-04-14
+22,Northwest D-I College Women's Regionals,British Columbia,Western Washington,11,13,-2,2024-05-05
+23,Northwest D-I College Women's Regionals,British Columbia,Utah,13,0,13,2024-05-05
+24,Northwest D-I College Women's Regionals,British Columbia,Victoria,13,2,11,2024-05-05
+25,Northwest D-I College Women's Regionals,British Columbia,Washington,13,7,6,2024-05-05
+26,Northwest D-I College Women's Regionals,British Columbia,Oregon,13,8,5,2024-05-05
+27,2024 USA Ultimate D-I College Championships,British Columbia,Tufts,14,15,-1,2024-05-27
+28,2024 USA Ultimate D-I College Championships,British Columbia,Colorado State,15,9,6,2024-05-27
+29,2024 USA Ultimate D-I College Championships,British Columbia,California-San Diego,15,9,6,2024-05-27
+30,2024 USA Ultimate D-I College Championships,British Columbia,Victoria,15,4,11,2024-05-27
+31,2024 USA Ultimate D-I College Championships,British Columbia,California-Santa Barbara,11,9,2,2024-05-27
+32,2024 USA Ultimate D-I College Championships,British Columbia,Vermont,10,12,-2,2024-05-27
+1,Carolina Kickoff Womens 2024,North Carolina,Duke,14,1,13,2024-01-21
+2,Carolina Kickoff Womens 2024,North Carolina,North Carolina State,9,6,3,2024-01-21
+3,Carolina Kickoff Womens 2024,North Carolina,Clemson,12,3,9,2024-01-21
+4,Carolina Kickoff Womens 2024,North Carolina,Triangle Tourists Girls,12,1,11,2024-01-21
+5,Carolina Kickoff Womens 2024,North Carolina,North Carolina [B],13,2,11,2024-01-21
+6,Carolina Kickoff Womens 2024,North Carolina,Duke,13,6,7,2024-01-21
+7,Carolina Kickoff Womens 2024,North Carolina,North Carolina State,7,2,5,2024-01-21
+8,Queen City Tune Up 2024,North Carolina,,,,0,2024-02-11
+9,Queen City Tune Up 2024,North Carolina,Georgia,12,6,6,2024-02-11
+10,Queen City Tune Up 2024,North Carolina,Pennsylvania,12,7,5,2024-02-11
+11,Queen City Tune Up 2024,North Carolina,Michigan,15,7,8,2024-02-11
+12,Queen City Tune Up 2024,North Carolina,Ohio State,15,8,7,2024-02-11
+13,Queen City Tune Up 2024,North Carolina,Notre Dame,10,6,4,2024-02-11
+14,Queen City Tune Up 2024,North Carolina,Tufts,12,9,3,2024-02-11
+15,Queen City Tune Up 2024,North Carolina,Carleton College,15,11,4,2024-02-11
+16,NW Challenge 2024,North Carolina,California,13,7,6,2024-03-17
+17,NW Challenge 2024,North Carolina,Washington,13,9,4,2024-03-17
+18,NW Challenge 2024,North Carolina,Western Washington,13,4,9,2024-03-17
+19,NW Challenge 2024,North Carolina,Carleton College,12,13,-1,2024-03-17
+20,NW Challenge 2024,North Carolina,Colorado,13,10,3,2024-03-17
+21,East Coast Invite 2024,North Carolina,Brown,11,3,8,2024-03-31
+22,East Coast Invite 2024,North Carolina,SUNY-Binghamton,14,7,7,2024-03-31
+23,East Coast Invite 2024,North Carolina,Northeastern,15,6,9,2024-03-31
+24,East Coast Invite 2024,North Carolina,Vermont,11,15,-4,2024-03-31
+25,East Coast Invite 2024,North Carolina,Michigan,13,9,4,2024-03-31
+26,East Coast Invite 2024,North Carolina,Tufts,9,8,1,2024-03-31
+27,East Coast Invite 2024,North Carolina,Vermont,10,12,-2,2024-03-31
+28,Carolina D-I College Women's Conferences,North Carolina,South Carolina,14,6,8,2024-01-21
+29,Carolina D-I College Women's Conferences,North Carolina,Charleston,15,1,14,2024-01-21
+30,Carolina D-I College Women's Conferences,North Carolina,East Carolina,15,0,15,2024-01-21
+31,Carolina D-I College Women's Conferences,North Carolina,North Carolina-Wilmington,15,1,14,2024-01-21
+32,Carolina D-I College Women's Conferences,North Carolina,Appalachian State,15,3,12,2024-01-21
+33,Carolina D-I College Women's Conferences,North Carolina,Duke,13,6,7,2024-01-21
+34,Atlantic Coast D-I College Women's Regionals,North Carolina,Maryland,15,4,11,2024-05-05
+35,Atlantic Coast D-I College Women's Regionals,North Carolina,Johns Hopkins,15,0,15,2024-05-05
+36,Atlantic Coast D-I College Women's Regionals,North Carolina,James Madison,15,1,14,2024-05-05
+37,Atlantic Coast D-I College Women's Regionals,North Carolina,Clemson,15,2,13,2024-05-05
+38,Atlantic Coast D-I College Women's Regionals,North Carolina,William & Mary,15,2,13,2024-05-05
+39,Atlantic Coast D-I College Women's Regionals,North Carolina,American,15,6,9,2024-05-05
+40,2024 USA Ultimate D-I College Championships,North Carolina,SUNY-Binghamton,15,5,10,2024-05-27
+41,2024 USA Ultimate D-I College Championships,North Carolina,Oregon,15,13,2,2024-05-27
+42,2024 USA Ultimate D-I College Championships,North Carolina,California-Santa Cruz,15,6,9,2024-05-27
+43,2024 USA Ultimate D-I College Championships,North Carolina,California-Santa Barbara,15,7,8,2024-05-27
+44,2024 USA Ultimate D-I College Championships,North Carolina,Carleton College,11,10,1,2024-05-27
+45,2024 USA Ultimate D-I College Championships,North Carolina,Colorado,14,13,1,2024-05-27
+46,2024 USA Ultimate D-I College Championships,North Carolina,Stanford,15,10,5,2024-05-27
+1,Santa Barbara Invite 2024,Oregon,Northwestern,15,2,13,2024-01-28
+2,Santa Barbara Invite 2024,Oregon,California-Santa Barbara,10,8,2,2024-01-28
+3,Santa Barbara Invite 2024,Oregon,UCLA,15,3,12,2024-01-28
+4,Santa Barbara Invite 2024,Oregon,Washington,12,9,3,2024-01-28
+5,Santa Barbara Invite 2024,Oregon,Stanford,12,11,1,2024-01-28
+6,Santa Barbara Invite 2024,Oregon,British Columbia,12,15,-3,2024-01-28
+7,Presidents' Day Invite 2024,Oregon,California-San Diego,14,9,5,2024-02-19
+8,Presidents' Day Invite 2024,Oregon,California-Davis,12,4,8,2024-02-19
+9,Presidents' Day Invite 2024,Oregon,Denver,15,0,15,2024-02-19
+10,Presidents' Day Invite 2024,Oregon,Colorado State,11,9,2,2024-02-19
+11,Presidents' Day Invite 2024,Oregon,Utah,13,7,6,2024-02-19
+12,Presidents' Day Invite 2024,Oregon,Colorado,15,8,7,2024-02-19
+13,Presidents' Day Invite 2024,Oregon,California-San Diego,15,4,11,2024-02-19
+14,Presidents' Day Invite 2024,Oregon,Stanford,10,9,1,2024-02-19
+15,NW Challenge 2024,Oregon,Brigham Young,13,10,3,2024-03-17
+16,NW Challenge 2024,Oregon,Victoria,13,7,6,2024-03-17
+17,NW Challenge 2024,Oregon,Wisconsin,13,6,7,2024-03-17
+18,NW Challenge 2024,Oregon,Carleton College,6,13,-7,2024-03-17
+19,NW Challenge 2024,Oregon,Western Washington,13,11,2,2024-03-17
+20,NW Challenge 2024,Oregon,Washington,13,8,5,2024-03-17
+21,Cascadia D-I College Women's Conferences,Oregon,British Columbia [B],15,8,7,2024-04-14
+22,Cascadia D-I College Women's Conferences,Oregon,Washington,15,13,2,2024-04-14
+23,Cascadia D-I College Women's Conferences,Oregon,Victoria,15,7,8,2024-04-14
+24,Cascadia D-I College Women's Conferences,Oregon,British Columbia,11,15,-4,2024-04-14
+25,Northwest D-I College Women's Regionals,Oregon,Oregon State,13,1,12,2024-05-05
+26,Northwest D-I College Women's Regionals,Oregon,Brigham Young,13,10,3,2024-05-05
+27,Northwest D-I College Women's Regionals,Oregon,Montana,13,3,10,2024-05-05
+28,Northwest D-I College Women's Regionals,Oregon,Washington,13,7,6,2024-05-05
+29,Northwest D-I College Women's Regionals,Oregon,Western Washington,10,7,3,2024-05-05
+30,Northwest D-I College Women's Regionals,Oregon,British Columbia,8,13,-5,2024-05-05
+31,Northwest D-I College Women's Regionals,Oregon,Washington,13,3,10,2024-05-05
+32,2024 USA Ultimate D-I College Championships,Oregon,California-Santa Cruz,15,11,4,2024-05-27
+33,2024 USA Ultimate D-I College Championships,Oregon,North Carolina,13,15,-2,2024-05-27
+34,2024 USA Ultimate D-I College Championships,Oregon,California-Santa Barbara,11,15,-4,2024-05-27
+35,2024 USA Ultimate D-I College Championships,Oregon,SUNY-Binghamton,15,5,10,2024-05-27
+36,2024 USA Ultimate D-I College Championships,Oregon,California-San Diego,15,3,12,2024-05-27
+37,2024 USA Ultimate D-I College Championships,Oregon,Stanford,8,13,-5,2024-05-27
+1,Santa Barbara Invite 2024,Stanford,California-Santa Cruz,13,9,4,2024-01-28
+2,Santa Barbara Invite 2024,Stanford,Brigham Young,9,11,-2,2024-01-28
+3,Santa Barbara Invite 2024,Stanford,Victoria,12,11,1,2024-01-28
+4,Santa Barbara Invite 2024,Stanford,California-Davis,13,6,7,2024-01-28
+5,Santa Barbara Invite 2024,Stanford,Oregon,11,12,-1,2024-01-28
+6,Santa Barbara Invite 2024,Stanford,Carleton College,8,12,-4,2024-01-28
+7,Presidents' Day Invite 2024,Stanford,Claremont,15,2,13,2024-02-19
+8,Presidents' Day Invite 2024,Stanford,Utah,12,8,4,2024-02-19
+9,Presidents' Day Invite 2024,Stanford,UCLA,13,3,10,2024-02-19
+10,Presidents' Day Invite 2024,Stanford,California-Santa Barbara,11,8,3,2024-02-19
+11,Presidents' Day Invite 2024,Stanford,California-San Diego,12,6,6,2024-02-19
+12,Presidents' Day Invite 2024,Stanford,Western Washington,15,4,11,2024-02-19
+13,Presidents' Day Invite 2024,Stanford,California-Santa Barbara,12,6,6,2024-02-19
+14,Presidents' Day Invite 2024,Stanford,Oregon,9,10,-1,2024-02-19
+15,Stanford Invite 2024,Stanford,Cal Poly-SLO,10,4,6,2024-03-03
+16,Stanford Invite 2024,Stanford,Victoria,13,2,11,2024-03-03
+17,Stanford Invite 2024,Stanford,Washington,9,12,-3,2024-03-03
+18,Stanford Invite 2024,Stanford,California-Santa Cruz,13,6,7,2024-03-03
+19,Stanford Invite 2024,Stanford,Vermont,7,10,-3,2024-03-03
+20,Stanford Invite 2024,Stanford,Colorado,10,5,5,2024-03-03
+21,NorCal D-I College Women's Conferences,Stanford,Nevada-Reno,15,3,12,2024-04-14
+22,NorCal D-I College Women's Conferences,Stanford,California,14,5,9,2024-04-14
+23,NorCal D-I College Women's Conferences,Stanford,California-Davis,14,4,10,2024-04-14
+24,Southwest D-I College Women's Regionals,Stanford,California [B],15,0,15,2024-04-28
+25,Southwest D-I College Women's Regionals,Stanford,Cal Poly-SLO,9,1,8,2024-04-28
+26,Southwest D-I College Women's Regionals,Stanford,California-Santa Cruz,15,3,12,2024-04-28
+27,Southwest D-I College Women's Regionals,Stanford,California-Santa Barbara,8,7,1,2024-04-28
+28,2024 USA Ultimate D-I College Championships,Stanford,Pennsylvania,15,7,8,2024-05-27
+29,2024 USA Ultimate D-I College Championships,Stanford,Carleton College,14,13,1,2024-05-27
+30,2024 USA Ultimate D-I College Championships,Stanford,Washington,15,10,5,2024-05-27
+31,2024 USA Ultimate D-I College Championships,Stanford,Utah,15,8,7,2024-05-27
+32,2024 USA Ultimate D-I College Championships,Stanford,Oregon,13,8,5,2024-05-27
+33,2024 USA Ultimate D-I College Championships,Stanford,Vermont,14,13,1,2024-05-27
+34,2024 USA Ultimate D-I College Championships,Stanford,North Carolina,10,15,-5,2024-05-27
+1,Queen City Tune Up 2024,Tufts,Minnesota,15,8,7,2024-02-11
+2,Queen City Tune Up 2024,Tufts,Case Western Reserve,15,0,15,2024-02-11
+3,Queen City Tune Up 2024,Tufts,Northeastern,15,4,11,2024-02-11
+4,Queen City Tune Up 2024,Tufts,Florida,15,3,12,2024-02-11
+5,Queen City Tune Up 2024,Tufts,Pittsburgh,12,7,5,2024-02-11
+6,Queen City Tune Up 2024,Tufts,North Carolina,9,12,-3,2024-02-11
+7,Queen City Tune Up 2024,Tufts,Vermont,11,15,-4,2024-02-11
+8,Commonwealth Cup Weekend 2 2024,Tufts,Georgia,14,10,4,2024-02-05
+9,Commonwealth Cup Weekend 2 2024,Tufts,Virginia,15,5,10,2024-02-05
+10,Commonwealth Cup Weekend 2 2024,Tufts,Notre Dame,15,7,8,2024-02-05
+11,Commonwealth Cup Weekend 2 2024,Tufts,Massachusetts,13,0,13,2024-02-05
+12,Commonwealth Cup Weekend 2 2024,Tufts,SUNY-Binghamton,10,5,5,2024-02-05
+13,Commonwealth Cup Weekend 2 2024,Tufts,Pennsylvania,9,8,1,2024-02-05
+14,Commonwealth Cup Weekend 2 2024,Tufts,Michigan,13,5,8,2024-02-05
+15,East Coast Invite 2024,Tufts,Michigan,10,7,3,2024-03-31
+16,East Coast Invite 2024,Tufts,Wisconsin,9,3,6,2024-03-31
+17,East Coast Invite 2024,Tufts,Penn State,15,2,13,2024-03-31
+18,East Coast Invite 2024,Tufts,UCLA,15,2,13,2024-03-31
+19,East Coast Invite 2024,Tufts,Ohio,11,6,5,2024-03-31
+20,East Coast Invite 2024,Tufts,North Carolina,8,9,-1,2024-03-31
+21,East Coast Invite 2024,Tufts,Northeastern,15,7,8,2024-03-31
+22,Metro Boston D-I College Women's Conferences,Tufts,Boston College,15,2,13,2024-04-21
+23,Metro Boston D-I College Women's Conferences,Tufts,Boston University,15,3,12,2024-04-21
+24,Metro Boston D-I College Women's Conferences,Tufts,Northeastern,10,11,-1,2024-04-21
+25,Metro Boston D-I College Women's Conferences,Tufts,MIT,13,6,7,2024-04-21
+26,New England D-I College Women's Regionals,Tufts,Vermont [C],15,1,14,2024-05-05
+27,New England D-I College Women's Regionals,Tufts,MIT,15,3,12,2024-05-05
+28,New England D-I College Women's Regionals,Tufts,Northeastern,15,5,10,2024-05-05
+29,New England D-I College Women's Regionals,Tufts,Vermont,11,15,-4,2024-05-05
+30,New England D-I College Women's Regionals,Tufts,Brown,15,5,10,2024-05-05
+31,2024 USA Ultimate D-I College Championships,Tufts,British Columbia,15,14,1,2024-05-27
+32,2024 USA Ultimate D-I College Championships,Tufts,California-San Diego,15,13,2,2024-05-27
+33,2024 USA Ultimate D-I College Championships,Tufts,Victoria,15,8,7,2024-05-27
+34,2024 USA Ultimate D-I College Championships,Tufts,Colorado State,15,10,5,2024-05-27
+35,2024 USA Ultimate D-I College Championships,Tufts,Colorado,13,15,-2,2024-05-27
+1,Santa Barbara Invite 2024,California-Santa Barbara,Brigham Young,15,12,3,2024-01-28
+2,Santa Barbara Invite 2024,California-Santa Barbara,UCLA,11,3,8,2024-01-28
+3,Santa Barbara Invite 2024,California-Santa Barbara,Oregon,8,10,-2,2024-01-28
+4,Santa Barbara Invite 2024,California-Santa Barbara,Northwestern,15,4,11,2024-01-28
+5,Santa Barbara Invite 2024,California-Santa Barbara,California-Santa Cruz,10,12,-2,2024-01-28
+6,Santa Barbara Invite 2024,California-Santa Barbara,California,13,5,8,2024-01-28
+7,Santa Barbara Invite 2024,California-Santa Barbara,UCLA,9,5,4,2024-01-28
+8,Presidents' Day Invite 2024,California-Santa Barbara,Cal Poly-SLO,14,8,6,2024-02-19
+9,Presidents' Day Invite 2024,California-Santa Barbara,Southern California,15,5,10,2024-02-19
+10,Presidents' Day Invite 2024,California-Santa Barbara,Colorado State,15,5,10,2024-02-19
+11,Presidents' Day Invite 2024,California-Santa Barbara,Stanford,8,11,-3,2024-02-19
+12,Presidents' Day Invite 2024,California-Santa Barbara,Western Washington,12,8,4,2024-02-19
+13,Presidents' Day Invite 2024,California-Santa Barbara,California-San Diego,9,10,-1,2024-02-19
+14,Presidents' Day Invite 2024,California-Santa Barbara,Colorado,10,9,1,2024-02-19
+15,Presidents' Day Invite 2024,California-Santa Barbara,Stanford,6,12,-6,2024-02-19
+16,Presidents' Day Invite 2024,California-Santa Barbara,California-San Diego,12,8,4,2024-02-19
+17,Stanford Invite 2024,California-Santa Barbara,California-Davis,10,7,3,2024-03-03
+18,Stanford Invite 2024,California-Santa Barbara,Pittsburgh,9,4,5,2024-03-03
+19,Stanford Invite 2024,California-Santa Barbara,Vermont,8,11,-3,2024-03-03
+20,Stanford Invite 2024,California-Santa Barbara,Cal Poly-SLO,8,5,3,2024-03-03
+21,Stanford Invite 2024,California-Santa Barbara,British Columbia,8,12,-4,2024-03-03
+22,Stanford Invite 2024,California-Santa Barbara,Pittsburgh,8,5,3,2024-03-03
+23,Stanford Invite 2024,California-Santa Barbara,California-Santa Cruz,11,7,4,2024-03-03
+24,SoCal D-I College Women's Conferences,California-Santa Barbara,San Diego State,15,3,12,2024-04-14
+25,SoCal D-I College Women's Conferences,California-Santa Barbara,California-Irvine,13,6,7,2024-04-14
+26,SoCal D-I College Women's Conferences,California-Santa Barbara,UCLA,10,4,6,2024-04-14
+27,SoCal D-I College Women's Conferences,California-Santa Barbara,Cal Poly-SLO,11,6,5,2024-04-14
+28,SoCal D-I College Women's Conferences,California-Santa Barbara,California-San Diego,8,7,1,2024-04-14
+29,Southwest D-I College Women's Regionals,California-Santa Barbara,Arizona State,15,2,13,2024-04-28
+30,Southwest D-I College Women's Regionals,California-Santa Barbara,California,9,7,2,2024-04-28
+31,Southwest D-I College Women's Regionals,California-Santa Barbara,California-San Diego,9,8,1,2024-04-28
+32,Southwest D-I College Women's Regionals,California-Santa Barbara,Stanford,7,8,-1,2024-04-28
+33,Southwest D-I College Women's Regionals,California-Santa Barbara,California-San Diego,0,0,0,2024-04-28
+34,2024 USA Ultimate D-I College Championships,California-Santa Barbara,SUNY-Binghamton,11,13,-2,2024-05-27
+35,2024 USA Ultimate D-I College Championships,California-Santa Barbara,California-Santa Cruz,15,9,6,2024-05-27
+36,2024 USA Ultimate D-I College Championships,California-Santa Barbara,Oregon,15,11,4,2024-05-27
+37,2024 USA Ultimate D-I College Championships,California-Santa Barbara,North Carolina,7,15,-8,2024-05-27
+38,2024 USA Ultimate D-I College Championships,California-Santa Barbara,British Columbia,9,11,-2,2024-05-27
+1,Presidents' Day Invite 2024,Colorado,California-San Diego [B],14,5,9,2024-02-19
+2,Presidents' Day Invite 2024,Colorado,California,12,8,4,2024-02-19
+3,Presidents' Day Invite 2024,Colorado,Western Washington,13,9,4,2024-02-19
+4,Presidents' Day Invite 2024,Colorado,Utah,15,8,7,2024-02-19
+5,Presidents' Day Invite 2024,Colorado,Colorado State,15,9,6,2024-02-19
+6,Presidents' Day Invite 2024,Colorado,Oregon,8,15,-7,2024-02-19
+7,Presidents' Day Invite 2024,Colorado,California-Santa Barbara,9,10,-1,2024-02-19
+8,Presidents' Day Invite 2024,Colorado,Colorado State,14,7,7,2024-02-19
+9,Presidents' Day Invite 2024,Colorado,Western Washington,9,7,2,2024-02-19
+10,Stanford Invite 2024,Colorado,California,8,5,3,2024-03-03
+11,Stanford Invite 2024,Colorado,California-Santa Cruz,10,7,3,2024-03-03
+12,Stanford Invite 2024,Colorado,Brigham Young,10,9,1,2024-03-03
+13,Stanford Invite 2024,Colorado,Pittsburgh,11,5,6,2024-03-03
+14,Stanford Invite 2024,Colorado,British Columbia,8,11,-3,2024-03-03
+15,Stanford Invite 2024,Colorado,Stanford,5,10,-5,2024-03-03
+16,NW Challenge 2024,Colorado,Whitman,13,3,10,2024-03-17
+17,NW Challenge 2024,Colorado,Carleton College,12,13,-1,2024-03-17
+18,NW Challenge 2024,Colorado,Northeastern,13,4,9,2024-03-17
+19,NW Challenge 2024,Colorado,British Columbia,6,13,-7,2024-03-17
+20,NW Challenge 2024,Colorado,North Carolina,10,13,-3,2024-03-17
+21,Rocky Mountain D-I College Women's Conferences,Colorado,Colorado [B],15,1,14,2024-04-14
+22,Rocky Mountain D-I College Women's Conferences,Colorado,Colorado State,15,6,9,2024-04-14
+23,South Central D-I College Women's Regionals,Colorado,Texas State,15,3,12,2024-04-28
+24,South Central D-I College Women's Regionals,Colorado,Denver,15,0,15,2024-04-28
+25,South Central D-I College Women's Regionals,Colorado,Washington University,14,0,14,2024-04-28
+26,South Central D-I College Women's Regionals,Colorado,Colorado State,15,7,8,2024-04-28
+27,2024 USA Ultimate D-I College Championships,Colorado,Western Washington,15,5,10,2024-05-27
+28,2024 USA Ultimate D-I College Championships,Colorado,Vermont,8,15,-7,2024-05-27
+29,2024 USA Ultimate D-I College Championships,Colorado,Michigan,15,2,13,2024-05-27
+30,2024 USA Ultimate D-I College Championships,Colorado,Georgia,15,3,12,2024-05-27
+31,2024 USA Ultimate D-I College Championships,Colorado,Pennsylvania,15,5,10,2024-05-27
+32,2024 USA Ultimate D-I College Championships,Colorado,Tufts,15,13,2,2024-05-27
+33,2024 USA Ultimate D-I College Championships,Colorado,North Carolina,13,14,-1,2024-05-27
+1,Queen City Tune Up 2024,Michigan,Georgia,10,12,-2,2024-02-11
+2,Queen City Tune Up 2024,Michigan,Ohio State,15,10,5,2024-02-11
+3,Queen City Tune Up 2024,Michigan,North Carolina,7,15,-8,2024-02-11
+4,Queen City Tune Up 2024,Michigan,Pennsylvania,15,11,4,2024-02-11
+5,Queen City Tune Up 2024,Michigan,Northeastern,15,11,4,2024-02-11
+6,Queen City Tune Up 2024,Michigan,Carleton College,5,11,-6,2024-02-11
+7,Queen City Tune Up 2024,Michigan,Georgia,,,0,2024-02-11
+8,Commonwealth Cup Weekend 2 2024,Michigan,SUNY-Binghamton,15,9,6,2024-02-05
+9,Commonwealth Cup Weekend 2 2024,Michigan,Carnegie Mellon,15,2,13,2024-02-05
+10,Commonwealth Cup Weekend 2 2024,Michigan,North Carolina State,15,11,4,2024-02-05
+11,Commonwealth Cup Weekend 2 2024,Michigan,South Carolina,13,6,7,2024-02-05
+12,Commonwealth Cup Weekend 2 2024,Michigan,Georgia,13,5,8,2024-02-05
+13,Commonwealth Cup Weekend 2 2024,Michigan,Notre Dame,10,7,3,2024-02-05
+14,Commonwealth Cup Weekend 2 2024,Michigan,Tufts,5,13,-8,2024-02-05
+15,East Coast Invite 2024,Michigan,Tufts,7,10,-3,2024-03-31
+16,East Coast Invite 2024,Michigan,Virginia,11,5,6,2024-03-31
+17,East Coast Invite 2024,Michigan,Brown,15,8,7,2024-03-31
+18,East Coast Invite 2024,Michigan,West Chester,15,2,13,2024-03-31
+19,East Coast Invite 2024,Michigan,North Carolina,9,13,-4,2024-03-31
+20,East Coast Invite 2024,Michigan,Pennsylvania,10,8,2,2024-03-31
+21,East Coast Invite 2024,Michigan,Wisconsin,11,6,5,2024-03-31
+22,Eastern Great Lakes D-I College Women's Conferences,Michigan,Purdue,9,4,5,2024-04-14
+23,Eastern Great Lakes D-I College Women's Conferences,Michigan,Grand Valley,13,4,9,2024-04-14
+24,Eastern Great Lakes D-I College Women's Conferences,Michigan,Michigan State,12,4,8,2024-04-14
+25,Eastern Great Lakes D-I College Women's Conferences,Michigan,Notre Dame [B],13,0,13,2024-04-14
+26,Eastern Great Lakes D-I College Women's Conferences,Michigan,Indiana,15,2,13,2024-04-14
+27,Eastern Great Lakes D-I College Women's Conferences,Michigan,Notre Dame,7,3,4,2024-04-14
+28,Great Lakes D-I College Women's Regionals,Michigan,Purdue,9,5,4,2024-04-28
+29,Great Lakes D-I College Women's Regionals,Michigan,Loyola-Chicago,12,2,10,2024-04-28
+30,Great Lakes D-I College Women's Regionals,Michigan,Illinois,10,1,9,2024-04-28
+31,Great Lakes D-I College Women's Regionals,Michigan,Notre Dame [B],15,0,15,2024-04-28
+32,Great Lakes D-I College Women's Regionals,Michigan,Grand Valley,15,5,10,2024-04-28
+33,Great Lakes D-I College Women's Regionals,Michigan,Northwestern,14,3,11,2024-04-28
+34,Great Lakes D-I College Women's Regionals,Michigan,Notre Dame,12,10,2,2024-04-28
+35,2024 USA Ultimate D-I College Championships,Michigan,Western Washington,15,7,8,2024-05-27
+36,2024 USA Ultimate D-I College Championships,Michigan,Georgia,15,14,1,2024-05-27
+37,2024 USA Ultimate D-I College Championships,Michigan,Colorado,2,15,-13,2024-05-27
+38,2024 USA Ultimate D-I College Championships,Michigan,Vermont,8,15,-7,2024-05-27
+39,2024 USA Ultimate D-I College Championships,Michigan,Carleton College,8,11,-3,2024-05-27
+1,Santa Barbara Invite 2024,Washington,Cal Poly-SLO,13,9,4,2024-01-28
+2,Santa Barbara Invite 2024,Washington,California-Davis,10,6,4,2024-01-28
+3,Santa Barbara Invite 2024,Washington,Carleton College,9,14,-5,2024-01-28
+4,Santa Barbara Invite 2024,Washington,California,15,4,11,2024-01-28
+5,Santa Barbara Invite 2024,Washington,Oregon,9,12,-3,2024-01-28
+6,Santa Barbara Invite 2024,Washington,California-Santa Cruz,14,8,6,2024-01-28
+7,Santa Barbara Invite 2024,Washington,Victoria,13,7,6,2024-01-28
+8,Stanford Invite 2024,Washington,Victoria,10,7,3,2024-03-03
+9,Stanford Invite 2024,Washington,Cal Poly-SLO,7,8,-1,2024-03-03
+10,Stanford Invite 2024,Washington,Stanford,12,9,3,2024-03-03
+11,Stanford Invite 2024,Washington,Pittsburgh,4,6,-2,2024-03-03
+12,Stanford Invite 2024,Washington,Cal Poly-SLO,10,9,1,2024-03-03
+13,Stanford Invite 2024,Washington,California,6,5,1,2024-03-03
+14,NW Challenge 2024,Washington,Brigham Young,13,12,1,2024-03-17
+15,NW Challenge 2024,Washington,California,13,6,7,2024-03-17
+16,NW Challenge 2024,Washington,North Carolina,9,13,-4,2024-03-17
+17,NW Challenge 2024,Washington,Whitman,13,3,10,2024-03-17
+18,NW Challenge 2024,Washington,British Columbia,7,13,-6,2024-03-17
+19,NW Challenge 2024,Washington,Northeastern,13,6,7,2024-03-17
+20,NW Challenge 2024,Washington,Oregon,8,13,-5,2024-03-17
+21,Cascadia D-I College Women's Conferences,Washington,Oregon State,15,5,10,2024-04-14
+22,Cascadia D-I College Women's Conferences,Washington,Oregon,13,15,-2,2024-04-14
+23,Cascadia D-I College Women's Conferences,Washington,Western Washington,14,9,5,2024-04-14
+24,Cascadia D-I College Women's Conferences,Washington,British Columbia,5,15,-10,2024-04-14
+25,Cascadia D-I College Women's Conferences,Washington,Victoria,9,15,-6,2024-04-14
+26,Northwest D-I College Women's Regionals,Washington,Montana,13,4,9,2024-05-05
+27,Northwest D-I College Women's Regionals,Washington,Brigham Young,13,11,2,2024-05-05
+28,Northwest D-I College Women's Regionals,Washington,Oregon State,13,4,9,2024-05-05
+29,Northwest D-I College Women's Regionals,Washington,Oregon,7,13,-6,2024-05-05
+30,Northwest D-I College Women's Regionals,Washington,British Columbia,5,13,-8,2024-05-05
+31,Northwest D-I College Women's Regionals,Washington,Western Washington,12,8,4,2024-05-05
+32,Northwest D-I College Women's Regionals,Washington,Oregon,3,13,-10,2024-05-05
+33,2024 USA Ultimate D-I College Championships,Washington,Utah,15,9,6,2024-05-27
+34,2024 USA Ultimate D-I College Championships,Washington,Pennsylvania,10,13,-3,2024-05-27
+35,2024 USA Ultimate D-I College Championships,Washington,Stanford,10,15,-5,2024-05-27
+36,2024 USA Ultimate D-I College Championships,Washington,Carleton College,11,15,-4,2024-05-27
+37,2024 USA Ultimate D-I College Championships,Washington,Western Washington,12,15,-3,2024-05-27

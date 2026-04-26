@@ -96,10 +96,23 @@ a:hover, a:focus {
   transition-timing-function: ease-in;
 }
 
+.axis-y .tick line {
+    stroke: #ccc;
+    stroke-dasharray: 0; /* solid, or use "4,4" for dashed */
+}
+
+.axis-y .domain {
+    display: none; /* hides the vertical axis spine */
+}
+
+.axis-y .tick line {
+    stroke-opacity: 0.7;
+}
+
 /* Intro */
 .intro {
   max-width: 900px;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 
 /* Sources */
@@ -112,7 +125,7 @@ a:hover, a:focus {
 /* Color legend */
 #legend {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
 }
 .color-legend {
     list-style: none;
@@ -123,56 +136,91 @@ a:hover, a:focus {
     gap: 6px;
 }
 
-.color-legend-item {
+.legend-item {
     display: flex;
     align-items: center;
-    gap: 8px;
-    font-size: 13px;
+    gap: 10px;
+    font-size: 18px;
 }
 
-.color-legend-item-color {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;   /* circle, like your dots */
+.legend-color {
+    width: 10px;
+    height: 10px;
     flex-shrink: 0;
 }
 
 
 /* legend */
-.text-legend {
+
+.chart-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.bar-row {
+  gap: 20px;
+  
+}
+
+#bar-chart {
+  flex: 3;
+}
+
+#tournament-legend {
+  flex: 1;
+  padding: 15px;
+}
+/*changing margins because they were so big */
+#tournament-legend h2 {
+    margin: 0 0 5px 0;
+}
+#tournament-legend h3 {
+    margin: 0 0 5px 0;
+}
+#tournament-legend p {
+    margin: 2px 0;
+}
+
+#games-legend {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 5px;
+    font-size: 22px;
+}
+
+
+#game-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    /* margin-top: 20px; */
+}
+
+.game-card {
+    border: 1px solid #a3a3a3;
+    border-radius: 5px;
+    padding: 10px 15px;
+    min-width: 150px;
+}
+
+#scatterplot {
+  flex: 3;
+}
+
+#legend-container {
+  flex: 1;
+  
+  
+
+}
+
+.legend-color {
   display: inline-block;
-  padding: 0px 3px;
-  color: #f8ffff;
-  font-weight: 500;
-  border-radius: 2px;
-}
-.text-legend.women {
-  background-color: #74538b;
-}
-.text-legend.men {
-  background-color: #e84e5e;
-}
-
-.text-legend.female {
-  background-color: #31b803;
-}
-.text-legend.male {
-  background-color: #c91616;
-}
-
-.text-legend.survived {
-  background-color: #c844e4;
-}
-.text-legend.died {
-  background-color: #e48444;
-}
-
-.text-legend.first {
-  background-color: #6c91f6;
-}
-.text-legend.second {
-  background-color: #f4dc65;
-}
-.text-legend.third {
-  background-color: #fb9090;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
 }
