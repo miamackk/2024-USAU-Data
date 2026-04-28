@@ -1,5 +1,7 @@
+//not all interactions live here
+//some made more sense to me to go at the bottom of their respective js file
 function tournament_legend(d) {
-    //so we can pring the date
+    //so we can print the date
     const formatTime = d3.timeFormat("%B %d");
     const date = d["rows"][0].date
 
