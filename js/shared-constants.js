@@ -6,7 +6,7 @@ bar_width = 1000
 
 d3.select("#buffer")
     .append("svg")
-        .attr("height", (1/5)*bump_height)
+        .attr("height", (1/8)*bump_height)
 
 d3.select("#buffer2")
     .append("svg")

@@ -141,6 +141,16 @@ a:hover, a:focus {
     align-items: center;
     gap: 10px;
     font-size: 18px;
+    white-space: nowrap;    /* keep label + box on one line */
+    flex-shrink: 1;         /* allow shrinking */
+}
+
+
+.legend-color {
+  width: 16px;
+  height: 16px;
+  min-width: 16px;        /* prevent the box from collapsing */
+  display: inline-block;
 }
 
 .legend-color {
@@ -148,14 +158,31 @@ a:hover, a:focus {
     height: 10px;
     flex-shrink: 0;
 }
+.side-panel {
+  flex: 1;
+  min-width: 0;
+}
+
+
 
 
 /* legend */
 
+
 .chart-row {
   display: flex;
   align-items: flex-start;
-  gap: 20px;
+  width: 100%;
+}
+
+#scatterplot {
+  flex: 1;
+  min-width: 0; 
+}
+
+#scatterplot svg {
+  width: 100%;
+  height: auto;
 }
 
 .bar-row {
@@ -212,10 +239,12 @@ a:hover, a:focus {
 }
 
 #legend-container {
-  flex: 1;
-  
-  
-
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .legend-color {
